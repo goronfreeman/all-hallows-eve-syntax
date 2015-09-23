@@ -1,4 +1,4 @@
-![](http://i.imgur.com/8VpHSkF.png)
+![](http://i.imgur.com/GxMNgvv.png)
 ---
 
 A spooky syntax theme perfect for the Halloween season.
