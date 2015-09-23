@@ -1,0 +1,15 @@
+{
+  "name": "all-hallows-eve-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A spooky syntax theme perfect for the Halloween season.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/goronfreeman/all-hallows-eve-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
